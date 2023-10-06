@@ -1,0 +1,14 @@
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\project 21\ecommerceAPI\DAL\obj\Debug\net6.0\ref\DAL.dll
